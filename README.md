@@ -1,5 +1,6 @@
 # eyeMovement
 ## Move cursor to see interactive feature
+## Shared under MIT License
 ## To try on your own, navigate to "Code". 
 ## There you will find a link to clone and paste into your IDE of choice. 
 ## The repository should show up as a folder to then be accessed.
